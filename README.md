@@ -40,7 +40,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=vue,pinia,vite,html,css,js,ts,sass,less,tailwind,unocss,py,latex&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=vue,react,pinia,vite,html,css,js,ts,sass,less,tailwind,unocss,py,latex&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
